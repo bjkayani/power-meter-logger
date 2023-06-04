@@ -32,7 +32,7 @@ Modify off the shelf power meters from Peacefair to pull the power data and log 
 
 <br>
 
-## [Blog Post](https://duckduckgo.com)
+[Blog Post](https://badar.tech/2023/06/03/power-meter-data-logging/)
 
 ## Future Work
 - Convert code example to a library
